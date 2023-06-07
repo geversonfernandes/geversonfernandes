@@ -2,7 +2,7 @@
 
 🌆 Sou de Fortaleza-CE <br>
 🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
-👨‍💻 Desenvolvedor Full-Stack Web Jr <br>
+👨‍💻 Desenvolvedor Full-Stack Web<br>
 
 <div align="center">
   <h2>Minhas estatísticas:</h2>
